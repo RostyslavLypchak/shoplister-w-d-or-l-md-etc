@@ -1,8 +1,7 @@
 {
-    "title": "Gestor de Listas de Compras",
-    "welcome": "Bienvenido al Gestor de Listas de Compras",
-    "openApp": "Abrir la Aplicación",
-    "darkMode": "Modo Oscuro",
-    "lightMode": "Modo Claro"
-  }
-  
+  "title": "Správce nákupních seznamů",
+  "welcome": "Vítejte v Správci nákupních seznamů",
+  "openApp": "Otevřít aplikaci",
+  "darkMode": "Tmavý režim",
+  "lightMode": "Světelný režim"
+}
