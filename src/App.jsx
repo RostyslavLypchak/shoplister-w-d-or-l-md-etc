@@ -29,7 +29,7 @@ function App() {
           English
         </button>
         <button onClick={() => changeLanguage("es")} className="btn btn-secondary">
-          Español
+          Čeština
         </button>
 
         <Routes>
